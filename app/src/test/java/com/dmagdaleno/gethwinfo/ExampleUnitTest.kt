@@ -1,4 +1,4 @@
-package br.com.valid.bio.component.gethwinfo
+package com.dmagdaleno.gethwinfo
 
 import org.junit.Test
 
