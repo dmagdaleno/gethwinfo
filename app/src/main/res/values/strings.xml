@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">gethwinfo</string>
+    <string name="lbl_mac_address">MAC Address:</string>
+    <string name="hardware_information">Hardware Information</string>
 </resources>
