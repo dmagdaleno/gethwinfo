@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "br.com.valid.bio.component.gethwinfo"
+        applicationId "com.dmagdaleno.gethwinfo"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1

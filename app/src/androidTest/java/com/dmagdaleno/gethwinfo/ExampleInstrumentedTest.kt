@@ -1,4 +1,4 @@
-package br.com.valid.bio.component.gethwinfo
+package com.dmagdaleno.gethwinfo
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("br.com.valid.bio.component.gethwinfo", appContext.packageName)
+        assertEquals("com.dmagdaleno.gethwinfo", appContext.packageName)
     }
 }
